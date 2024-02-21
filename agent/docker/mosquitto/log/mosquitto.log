@@ -96,3 +96,47 @@
 1708518794: New connection from 172.18.0.3:33825 on port 1883.
 1708518794: New client connected from 172.18.0.3:33825 as auto-D98AE1EF-21BB-F119-F332-CBDCE2798608 (p2, c1, k60).
 1708518806: Client auto-D98AE1EF-21BB-F119-F332-CBDCE2798608 closed its connection.
+1708520736: mosquitto version 2.0.18 starting
+1708520736: Config loaded from /mosquitto/config/mosquitto.conf.
+1708520736: Opening ipv4 listen socket on port 1883.
+1708520736: Opening ipv6 listen socket on port 1883.
+1708520736: mosquitto version 2.0.18 running
+1708520737: New connection from 172.18.0.3:33817 on port 1883.
+1708520737: New client connected from 172.18.0.3:33817 as auto-67725649-CB59-A536-3BF5-24711DB5D3C1 (p2, c1, k60).
+1708520753: New connection from 172.18.0.1:45196 on port 1883.
+1708520753: New client connected from 172.18.0.1:45196 as mqtt-explorer-7f6da1a4 (p2, c1, k60).
+1708520832: Client auto-67725649-CB59-A536-3BF5-24711DB5D3C1 closed its connection.
+1708521561: mosquitto version 2.0.18 starting
+1708521561: Config loaded from /mosquitto/config/mosquitto.conf.
+1708521561: Opening ipv4 listen socket on port 1883.
+1708521561: Opening ipv6 listen socket on port 1883.
+1708521561: mosquitto version 2.0.18 running
+1708521561: New connection from 172.18.0.3:54487 on port 1883.
+1708521561: New client connected from 172.18.0.3:54487 as auto-3FBAC7A7-B39E-3EA8-4212-6AB3C5906DF5 (p2, c1, k60).
+1708521566: New connection from 172.18.0.1:48564 on port 1883.
+1708521566: New client connected from 172.18.0.1:48564 as mqtt-explorer-7f6da1a4 (p2, c1, k60).
+1708521596: Client mqtt-explorer-7f6da1a4 disconnected.
+1708521614: Client auto-3FBAC7A7-B39E-3EA8-4212-6AB3C5906DF5 closed its connection.
+1708522015: mosquitto version 2.0.18 starting
+1708522015: Config loaded from /mosquitto/config/mosquitto.conf.
+1708522015: Opening ipv4 listen socket on port 1883.
+1708522015: Opening ipv6 listen socket on port 1883.
+1708522015: mosquitto version 2.0.18 running
+1708522015: New connection from 172.18.0.3:53731 on port 1883.
+1708522015: New client connected from 172.18.0.3:53731 as auto-88C129C7-5684-B73A-901E-6E3B4FD61CA5 (p2, c1, k60).
+1708522018: New connection from 172.18.0.1:52554 on port 1883.
+1708522018: New client connected from 172.18.0.1:52554 as mqtt-explorer-7f6da1a4 (p2, c1, k60).
+1708522387: Client auto-88C129C7-5684-B73A-901E-6E3B4FD61CA5 closed its connection.
+1708522391: New connection from 172.18.0.3:59505 on port 1883.
+1708522391: New client connected from 172.18.0.3:59505 as auto-DD8CFA17-63ED-0260-30CC-C64C37D8CCBD (p2, c1, k60).
+1708522412: Client auto-DD8CFA17-63ED-0260-30CC-C64C37D8CCBD closed its connection.
+1708522418: mosquitto version 2.0.18 starting
+1708522418: Config loaded from /mosquitto/config/mosquitto.conf.
+1708522418: Opening ipv4 listen socket on port 1883.
+1708522418: Opening ipv6 listen socket on port 1883.
+1708522418: mosquitto version 2.0.18 running
+1708522419: New connection from 172.18.0.3:48569 on port 1883.
+1708522419: New client connected from 172.18.0.3:48569 as auto-FF55E2B2-3959-2AE1-4580-AA5ED2C871F3 (p2, c1, k60).
+1708522419: New connection from 172.18.0.1:58508 on port 1883.
+1708522419: New client connected from 172.18.0.1:58508 as mqtt-explorer-7f6da1a4 (p2, c1, k60).
+1708522576: Client auto-FF55E2B2-3959-2AE1-4580-AA5ED2C871F3 closed its connection.
